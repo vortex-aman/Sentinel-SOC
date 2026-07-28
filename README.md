@@ -55,7 +55,7 @@ The project focuses on **Detection Engineering**, **Threat Hunting**, and **Inci
                     │
         ┌───────────┴───────────┐
         │                       │
- Windows 11 VM            Kali Linux VM
+ Windows 10 VM            Kali Linux VM
 (Wazuh Agent + Sysmon)      (Attacker)
 ```
 
@@ -67,7 +67,7 @@ The project focuses on **Detection Engineering**, **Threat Hunting**, and **Inci
 |----------|------------|
 | SIEM | Wazuh |
 | Operating System | Ubuntu Server |
-| Endpoint | Windows 11 |
+| Endpoint | Windows 10 |
 | Monitoring | Sysmon |
 | Attacker Machine | Kali Linux |
 | Virtualization | VirtualBox |
