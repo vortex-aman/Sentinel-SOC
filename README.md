@@ -9,7 +9,21 @@
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-red)
 
 ---
+## 📑 Table of Contents
 
+- [Overview](#-overview)
+- [Project Objectives](#-project-objectives)
+- [Lab Architecture](#-lab-architecture)
+- [Technology Stack](#-technology-stack)
+- [Features](#-features)
+- [Attack Simulations](#-attack-simulations)
+- [Detection Engineering](#-detection-engineering)
+- [MITRE ATT&CK Coverage](#-mitre-attck-coverage)
+- [Screenshots](#-screenshots)
+- [Repository Structure](#-repository-structure)
+- [Roadmap](#-roadmap)
+- [Learning Outcomes](#-learning-outcomes)
+- [License](#-license)
 ## 📖 Overview
 
 Sentinel SOC is a hands-on Security Operations Center (SOC) home lab designed to simulate real-world cyber attacks, collect security telemetry, and detect malicious activities using **Wazuh SIEM**, **Sysmon**, and **Windows Event Logs**.
