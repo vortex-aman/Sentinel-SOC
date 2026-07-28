@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ChatGPT%20Image%20Jul%2028,%202026,%2011_20_56%20AM.png" alt="Sentinel SOC Banner" width="100%">
+  <img src="banner.png" alt="Sentinel SOC Banner" width="100%">
 </p>
 # 🛡️ Sentinel SOC
 
