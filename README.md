@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="ChatGPT%20Image%20Jul%2028,%202026,%2011_20_56%20AM.png" alt="Sentinel SOC Banner" width="100%">
+</p>
 # 🛡️ Sentinel SOC
 
 > **An Open-Source Security Operations Center (SOC) Home Lab for Threat Detection, Incident Response, and Detection Engineering**
